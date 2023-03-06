@@ -12,80 +12,80 @@
 "VideoConfig"
 {
 	// Effect detail (0: Low, 1: Medium, 2: High)
-	"setting.cpu_level"						"2"
+	"setting.cpu_level"                     "2"
 
 	// Shader detail (0: Low, 1: Medium, 2: High, 3: Very High)
-	"setting.gpu_level"						"2"
+	"setting.gpu_level"                     "2"
 
 	// Multisampling Anti-Aliasing
 	// (0: None, 2: 2x MSAA, 4: 4x MSAA, 8: 8x MSAA)
-	"setauto.mat_antialias"					"8"
+	"setauto.mat_antialias"                 "8"
 
 	// Anti-Aliasing quality, you cannot change this value in the GUI and the
 	// default value of this command is "0"
-	"setauto.mat_aaquality"					"0"
+	"setauto.mat_aaquality"                 "0"
 
 	// Texture filtering (0: Bilinear, 1: Trilinear, 2: Anisotropic 2x,
 	// 4: Anisotropic 4x, 8: Anisotropic 8x, 16: Anisotropic 16x)
-	"setting.mat_forceaniso"				"4"
+	"setting.mat_forceaniso"                "4"
 
 	// V-sync double buffered (0: Disabled, 1: Enabled)
-	"setting.mat_vsync"						"0"
+	"setting.mat_vsync"                     "0"
 
 	// V-sync triple buffered (0: Disabled, 1: Enabled)
-	"setting.mat_triplebuffered"			"0"
+	"setting.mat_triplebuffered"            "0"
 
 	// Removes the grain effect on the screen. I leave the default value
-	"setting.mat_grain_scale_override"		"-1.000000"
+	"setting.mat_grain_scale_override"      "-1.000000"
 
 	// Model / Texture detail (0: Low, 1: Medium, 2: High)
-	"setting.gpu_mem_level"					"2"
+	"setting.gpu_mem_level"                 "2"
 
 	// The value of this command depends of your ram, do not modify it
 	// (0: from 0 to 1200 MB,
 	//  1: from 1200 MB to 1800 MB,
 	//	2: from 1800 MB to 65535 MB)
 	// https://github.com/ValveSoftware/csgo-osx-linux/issues/878#issuecomment-223281413
-	"setting.mem_level"						"2"
+	"setting.mem_level"                     "2"
 
 	// Multicore rendering (0: Disabled, -1: Enabled)
-	"setting.mat_queue_mode"				"-1"
+	"setting.mat_queue_mode"                "-1"
 
 	// Global shadow quality (0: Very Low, 1: Low, 2: Medium, 3: High)
-	"setting.csm_quality_level"				"0"
+	"setting.csm_quality_level"             "0"
 
 	// FXAA Anti-Aliasing (0: Disabled, 1: Enabled)
-	"setting.mat_software_aa_strength"		"0"
+	"setting.mat_software_aa_strength"      "0"
 
 	// Motion blur (0: Disabled, 1: Enabled)
-	"setting.mat_motion_blur_enabled"		"0"
+	"setting.mat_motion_blur_enabled"       "0"
 
 	// Texture streaming, enable this if your system has slow disk like HDD
 	// (0: Disabled, 1: Enabled)
-	"setting.mat_texturestreaming"			"0"
+	"setting.mat_texturestreaming"          "0"
 
 	// Boost player contrast improves the legibility of players in low
 	// contrast situations (0: Disabled, 1: Enabled)
-	"setting.r_player_visibility_mode"		"1"
+	"setting.r_player_visibility_mode"      "1"
 
 	// Uber shaders reduce hitching, but may lower perfomance in your pc.
 	// Use this setting at auto in the GUI (0: Disabled, 1: Enabled)
-	"setauto.mat_enable_uber_shaders"		"1"
+	"setauto.mat_enable_uber_shaders"       "1"
 
 	// Resolution width
-	"setting.defaultres"					"1920"
+	"setting.defaultres"                    "1920"
 
 	// Resolution height
-	"setting.defaultresheight"				"1080"
+	"setting.defaultresheight"              "1080"
 
 	// Aspect ratio, this value is always 0
-	"setting.aspectratiomode"				"0"
+	"setting.aspectratiomode"               "0"
 
 	// Display mode (0: Disabled, 1: Fullscreen)
-	"setting.fullscreen"					"1"
+	"setting.fullscreen"                    "1"
 
 	// Display mode (0: Disabled, 1: Fullscreen Windowed)
-	"setting.nowindowborder"				"0"
+	"setting.nowindowborder"                "0"
 
 	// NOTE: If "setting.fullscreen" and "setting.nowindowborder" are "0" the
 	// value of the display mode is `Windowed` in the game.
