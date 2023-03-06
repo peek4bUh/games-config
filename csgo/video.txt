@@ -1,7 +1,7 @@
 //  File: video.txt
 //
-//	The main purpose of this file is to save your graphical settings such as
-//	resolution, shadows, shaders, vertical synchronization, etc...
+//  The main purpose of this file is to save your graphical settings such as
+//  resolution, shadows, shaders, vertical synchronization, etc...
 //
 //  This file should go within cfg folder:
 //  ...\Steam\userdata\<YOURID>\730\local\cfg
