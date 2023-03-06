@@ -44,7 +44,7 @@
 	// The value of this command depends of your ram, do not modify it
 	// (0: from 0 to 1200 MB,
 	//  1: from 1200 MB to 1800 MB,
-	//	2: from 1800 MB to 65535 MB)
+	//  2: from 1800 MB to 65535 MB)
 	// https://github.com/ValveSoftware/csgo-osx-linux/issues/878#issuecomment-223281413
 	"setting.mem_level"                     "2"
 
