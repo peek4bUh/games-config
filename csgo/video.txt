@@ -1,6 +1,7 @@
-//  File: csgo/video.txt
-//
-//	Source: https://github.com/angel99ab/games-config/
+//  Filename: csgo/video.txt
+//  Author: @angel99ab
+//  Source: https://github.com/angel99ab/games-config/
+//  GameVersion: 1.38.5.7
 //
 //  The main purpose of this file is to save your graphical settings such as
 //  resolution, shadows, shaders, vertical synchronization, etc...
