@@ -8,8 +8,6 @@
 //
 //  This file should go in the Steam userdata folder:
 //  ...\Steam\userdata\<YOURID>\730\local\cfg
-//
-//  Author: angel99ab
 
 
 "VideoConfig"
