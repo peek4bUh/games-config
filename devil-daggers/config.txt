@@ -1,0 +1,33 @@
+//  Filename: devil-daggers/video.txt
+//  Author: @angel99ab
+//  Source: https://github.com/angel99ab/games-config/
+//  GameVersion: 3.2
+//
+//  The main purpose of this file is to save your graphical settings such as
+//  resolution, shadows, shaders, vertical synchronization, etc...
+//
+//  TIP: Press <Ctrl> + <mouse1> inside a slider to type.
+//
+//  This file should go in the Steam userdata folder:
+//  %APPDATA%\DevilDaggers\
+
+
+[Input]
+left_hand = unchecked
+invert_y = unchecked
+flash_hand = checked
+look_speed = 0.062
+
+[Keyboard_Config]
+
+[Keyboard_Config.Audio]
+hrtf = unchecked
+volume = 1.000
+music = 0.400 
+
+[Keyboard_Config.Video]
+fullscreen = on
+fov = 90
+v_sync = off
+max_fps = 5000
+gamma = 1.30 
