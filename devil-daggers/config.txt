@@ -9,7 +9,8 @@
 //  TIP: Press <Ctrl> + <mouse1> inside a slider to type.
 //
 //  This file should go in the Steam userdata folder:
-//  %APPDATA%\DevilDaggers\
+//
+//    %APPDATA%\DevilDaggers\
 
 
 [Input]
