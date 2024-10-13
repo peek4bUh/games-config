@@ -1,5 +1,5 @@
 //  Filename: csgo/video.txt
-//  Author: @angel99ab
+//  Author: @peek4bUh
 //  Source: https://github.com/angel99ab/games-config/
 //  GameVersion: 1.38.5.7
 //
