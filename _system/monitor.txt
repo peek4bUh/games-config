@@ -1,0 +1,48 @@
+//  Filename: _system/monitor.txt
+//  Author: @peek4bUh
+//  Source: https://github.com/angel99ab/games-config/
+//
+//  The main purpose of this file is to save my monitor settings.
+
+
+Luminance
+  - Contrast: 30
+  - Brigtness: 50
+  - Eco Mode: Standart
+  - Gamma: Gamma1
+  - DCR: Off
+  - Overdrive: Medium
+  - Game Mode: Off
+  - Shadow Control: 50
+Color Setup
+  - Color Temp.: Warn
+  - DCB Mode: Off
+  - DCB Demo: Off
+  - Red: 98 (disabled)
+  - Green: 98 (disabled)
+  - Blue: 98 (disabled)
+Picture Boost
+  - Bright Frame: Off
+  - Frame Size: 14 (Disabled)
+  - Brightness: 50 (Disabled)
+  - Contrast: 50 (disabled)
+  - H. Position: 0 (disabled)
+  - V. Position: 0 (disabled)
+OSD Setup
+  - Language: English
+  - Timeout: 20
+  - DP Capability: 1.1
+  - H. Position: 50
+  - V. Position: 0
+  - Transparence: 25
+  - Break Reminder: Off
+Extra
+  - Input Select: Auto
+  - Auto Config.: No
+  - Off Timer: 00
+  - Image Ratio: Wide (disabled)
+  - DDC/CI: Yes
+  - Reset: No
+  - Resolution: 1920(H)x1080(V)
+  - H. Frequency: 84KHz
+  - V. Frequency: 75KHz
