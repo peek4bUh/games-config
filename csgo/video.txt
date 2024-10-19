@@ -6,8 +6,8 @@
 //  The main purpose of this file is to save your graphical settings such as
 //  resolution, shadows, shaders, vertical synchronization, etc...
 //
-//  This file should go in the Steam userdata folder:
-//  ...\Steam\userdata\<YOURID>\730\local\cfg
+//	Windows path:
+//		...\Steam\userdata\<STEAM_ID>\730\local\cfg
 
 
 "VideoConfig"
