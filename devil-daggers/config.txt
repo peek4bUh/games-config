@@ -1,6 +1,6 @@
 //  Filename: devil-daggers/video.txt
 //  Author: @peek4bUh
-//  Source: https://github.com/angel99ab/games-config/
+//  Source: https://github.com/peek4bUh/games-config
 //  GameVersion: 3.2
 //
 //  The main purpose of this file is to save your graphical settings such as
@@ -30,4 +30,4 @@ fullscreen = on
 fov = 90
 v_sync = off
 max_fps = 5000
-gamma = 1.30 
+gamma = 1.30
