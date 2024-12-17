@@ -14,7 +14,7 @@ My custom collection of configuration files for the games I play with a quick an
 - **Network Card:** Gigabyte GC-WB867D-I
 - **Case:** nzxt S340 (White)
 - **Monitor:** AOC 2460VQ6
-- **Keyboard:** Ducky One 3 TKL (Cherry MX Silent Red)
+- **Keyboard:** Ducky One 3 TKL (Cherry MX Red)
 - **Mouse:** XM1r Endgame Gear
 - **Mousepad:** SteelSeries QcK Large Thin
 - **Controller:** ps3
