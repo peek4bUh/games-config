@@ -1,0 +1,47 @@
+//  Filename: cs2/video.txt
+//  Author: @peek4bUh
+//  Source: https://github.com/peek4bUh/games-config
+//  GameVersion: 1.38.5.7
+//
+//  The main purpose of this file is to save your graphical settings such as
+//  resolution, shadows, shaders, vertical synchronization, etc...
+//
+//	Windows path:
+//		...\Steam\userdata\<STEAM_ID>\730\local\cfg
+
+
+"video.cfg"
+{
+	"setting.defaultres"		"1280"
+	"setting.defaultresheight"		"1024"
+	"setting.refreshrate_numerator"		"360"
+	"setting.refreshrate_denominator"		"1"
+	"setting.fullscreen"		"1"
+	"setting.mat_vsync"		"0"
+	"Version"		"15"
+	"VendorID"		"4098"
+	"DeviceID"		"26591"
+	"setting.cpu_level"		"3"
+	"setting.gpu_mem_level"		"3"
+	"setting.gpu_level"		"3"
+	"setting.knowndevice"		"1"
+	"setting.nowindowborder"		"1"
+	"setting.fullscreen_min_on_focus_loss"		"1"
+	"setting.high_dpi"		"0"
+	"setting.coop_fullscreen"		"0"
+	"setting.videocfg_shadow_quality"		"0"
+	"setting.videocfg_texture_detail"		"2"
+	"setting.videocfg_ao_detail"		"0"
+	"setting.videocfg_particle_detail"		"0"
+	"setting.videocfg_fsr_detail"		"0"
+	"setting.videocfg_hdr_detail"		"-1"
+	"setting.r_texturefilteringquality"		"0"
+	"setting.r_low_latency"		"1"
+	"setting.r_csgo_cmaa_enable"		"0"
+	"AutoConfig"		"2"
+	"setting.msaa_samples"		"4"
+	"setting.shaderquality"		"0"
+	"setting.aspectratiomode"		"0"
+	"setting.videocfg_dynamic_shadows"		"1"
+	"setting.monitor_index"		"0"
+}
